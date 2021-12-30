@@ -1,6 +1,7 @@
 Original images based on the following:
  - https://code.google.com/archive/p/vector-playing-cards/
  - The Industrie Und Gluck tarock deck
+ - Wizard clipart: https://openclipart.org/detail/229148/wizard
 
 Images were modified by Joe Raczkowski.  The adapted work is released under a CC-BY-SA license.
 
